@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">BudgetTracker</string>
+    <string name="passwordreg">Password</string>
+    <string name="emailreg">Email</string>
+    <string name="registerbtnreg">Register</string>
+    <string name="email_lgn">Email</string>
+    <string name="password_lgn">Password</string>
+    <string name="login_lgn">Login</string>
+    <string name="view_expenses_main">View Expenses</string>
+    <string name="add_expense_main">Add Expense</string>
+    <string name="view_charts_main">View Charts</string>
+    <string name="dateaddexp">Date</string>
+    <string name="amountexp">Amount</string>
+    <string name="descriptionexp">Description</string>
+    <string name="take_pictureexp">Take Picture</string>
+    <string name="choose_from_galleryexp">Choose from Gallery</string>
+    <string name="save_expenseexp">Save Expense</string>
+    <string name="expense_titleexp">Expense Title</string>
+    <string name="filter_by_date_viewe">Filter by Date</string>
+</resources>
